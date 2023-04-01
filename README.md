@@ -1,2 +1,2 @@
 # Playing-with-CSS-variables-and-JS
-Day 2 of JS30
+Day 3 of JS30
